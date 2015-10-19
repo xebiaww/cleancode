@@ -13,8 +13,7 @@ bin/
 test-output/
 src/main/resources/web/help/onlinehelp
 .cache
-# Maven
-pom.xml
+
 
 # Eclipse
 .metadata/
